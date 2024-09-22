@@ -1,4 +1,4 @@
-# IPL-Data_Analysis
+# IPL-Data Analysis
 This project analyzes historical IPL match data and predicts the outcome of a match between two teams using Machine Learning models. The dataset is cleaned, visualized, and both Logistic Regression and Random Forest models are trained to predict which team will win a match.
 
 <details>

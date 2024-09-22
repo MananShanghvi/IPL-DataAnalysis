@@ -57,11 +57,11 @@ To run this project locally, follow these steps:
 
 > Clone the repository:
 ```bash
-git clone [https://github.com/your-username/ipl-match-prediction.git](https://github.com/Chanchal1010/IPL-Data_Analysis)
+gh repo clone MananShanghvi/IPL-DataAnalysis
 ```
 > Navigate to the project directory:
 ```bash
-cd IPL-Data_Analysis
+cd IPL-DataAnalysis
 ```
 > Ensure you have the dataset (matches.csv) in the project directory.
 
